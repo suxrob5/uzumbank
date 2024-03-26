@@ -1,6 +1,6 @@
 import PayPay from "@/assets/payPay.png";
 import Hpay from "@/assets/hPay.svg";
-import Visa from "@/assets/VISA.svg";
+import Visa from "@/assets/visa.svg";
 import Image from "next/image";
 
 const PayToPhone = () => {
