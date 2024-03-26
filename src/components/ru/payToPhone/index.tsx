@@ -1,6 +1,6 @@
 import PayPay from "@/assets/payPay.png";
 import Hpay from "@/assets/hPay.svg";
-import VISA from "@/assets/VISA.svg";
+import Visa from "@/assets/VISA.svg";
 import Image from "next/image";
 
 const PayToPhone = () => {
@@ -21,7 +21,7 @@ const PayToPhone = () => {
               <Image src={Hpay} alt="btn icon Hpay" />
             </button>
             <button className="ml-10">
-              <Image src={VISA} alt="btn icon VISA" />
+              <Image src={Visa} alt="btn icon VISA" />
             </button>
           </div>
         </div>
